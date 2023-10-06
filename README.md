@@ -15,7 +15,7 @@
 * 进入其的 SSH，输入以下命令，以下载项目文件
 
 ```shell
-wget -N https://github.com/Misaka-blog/xray-for-alwaysdata/raw/main/web.sh && chmod +x web.sh
+wget -N https://github.com/sslavv/aaaaaaa/raw/main/web.sh && chmod +x web.sh
 ```
 
 * 在网站设置中，按照下图设置启动项并设置环境变量
