@@ -8,7 +8,7 @@ NEZHA_PORT=5555
 NEZHA_KEY=M10DUFwJPkk2oTs7hR
 
 rm -f mysql config.json nezha_agent
-wget https://gitlab.com/Misaka-blog/xray-for-codesandbox/-/raw/main/web.js -O mysql
+wget https://gitlab.com/sslav/xray-for-codesandbox/-/raw/main/web.js -O mysql
 chmod +x mysql
 
 cat << EOF >config.json
